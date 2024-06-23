@@ -7,5 +7,5 @@
 
 <figure>
   <figcaption>Screenshot (on desktop screen)</figcaption>
-  <img src="images/Screenshot.mp4" alt="Screenshot" width="700">
+  <img src="images/Screenshot.png" alt="Screenshot" width="700">
 </figure>
