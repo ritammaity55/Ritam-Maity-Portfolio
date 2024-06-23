@@ -11,4 +11,4 @@
 </figure>
 
 
-## Live Demo: [Click Me](https://ritammaity55.github.io/Ritam-Maity-Portfolio/)
+## Live Demo: [Click Here](https://ritammaity55.github.io/Ritam-Maity-Portfolio/)
