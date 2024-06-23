@@ -9,3 +9,6 @@
   <figcaption>Screenshot (on desktop screen)</figcaption>
   <img src="images/Screenshot.png" alt="Screenshot" width="700">
 </figure>
+
+
+## Live Demo: [Click Me](https://ritammaity55.github.io/Ritam-Maity-Portfolio/)
