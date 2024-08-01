@@ -48,7 +48,7 @@ window.onscroll = () => {
     footer.classList.toggle('show-animate', this.innerHeight + this.scrollY >= document.scrollingElement.scrollHeight);
 }
 
-
+//email.js integration
 function sendEmail() {
     let params = {
         name: document.getElementById("name").value,
